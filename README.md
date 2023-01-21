@@ -1,2 +1,2 @@
-# Flight-Prices-Repo
+# Flight Prices Repo
 Comparing Local Flight Prices
